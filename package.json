@@ -1,0 +1,23 @@
+{
+  "name": "append-header",
+  "version": "0.0.0",
+  "description": "append-header",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tellnes/append-header.git"
+  },
+  "keywords": [
+    "header",
+    "add",
+    "append"
+  ],
+  "author": "Christian Tellnes <christian@tellnes.no> (http://christian.tellnes.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tellnes/append-header/issues"
+  }
+}
